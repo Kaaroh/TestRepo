@@ -4,8 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello bird world!");
-        Chicken myChicken = new Chicken();
-        myChicken.dance();
+        Chicken chicken = new Chicken();
+        chicken.dance();
     }
 
 
